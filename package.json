@@ -1,0 +1,22 @@
+{
+  "name": "sysinfo",
+  "version": "1.0.0",
+  "description": "An electron application to view system resources.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amitauddy/SysInfo.git"
+  },
+  "author": "Amit Auddy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amitauddy/SysInfo/issues"
+  },
+  "homepage": "https://github.com/amitauddy/SysInfo#readme",
+  "dependencies": {
+    "electron": "^1.6.2"
+  }
+}
