@@ -17,7 +17,7 @@ function createWindow() {
         slashes:  true
     }));
 
-    win.on('closeed', () => {
+    win.on('closed', () => {
         win = null
     });
 }
